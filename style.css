@@ -1,0 +1,42 @@
+/*
+body {
+  background-color: skyblue;
+}
+
+h1 {
+  color: blue;
+  transition: color 0.5s ease-in-out;
+}
+
+.clicked {
+  color: yellow;
+}
+*/
+.hidden {
+  display: none;
+}
+
+#weather {
+  text-align-last: right;
+  font-size: xx-large;
+  color: rgb(40, 17, 61);
+  font-weight: bolder;
+  position: absolute;
+  left: 15px;
+  bottom: 15px;
+}
+
+#clock {
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+
+#greeting {
+  color: yellow;
+}
+
+#quote {
+  font-size: x-large;
+  font-style: oblique;
+}
